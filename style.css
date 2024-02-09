@@ -1,0 +1,199 @@
+body {
+    border: 5px dotted black;
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    margin: 20px;
+}
+
+hr{
+    background-image: url(image/border.jpg);
+    height: 60px;
+    margin: 0px;
+    /* border-radius: 50px; */
+    border: 5px solid black;
+}
+
+#ganesha {
+    height: 900px;
+    background-color: rgb(12, 32, 7);
+    display: flex;
+    margin: 10px;
+    border: 5px solid cornflowerblue;
+    border-radius: 50px;
+}
+.godimg {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.engagement {
+    height: 900px;
+    text-align: center;
+    display: flex;
+    margin-left: 200px;
+}
+
+.intro{
+    height: 900px;
+    text-align: center;
+    /* background-color: rgb(211, 149, 195); */
+    /* margin-bottom: 100px; */
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+    /* margin-bottom: 100px; */
+    color: rgb(114, 4, 26);
+
+}
+.mainline{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.name {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+    color: rgb(46, 20, 29);
+}
+.names {
+    font-size: 48px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(204, 6, 95);
+}
+
+#and{
+    font-size: 60px;
+    font-weight: bold;
+    font-style: italic;
+    /* margin-top: 200px; */
+    /* color: rgb(204, 6, 95); */
+}
+
+.parents{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.date{
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+
+}
+.adress{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    /* margin-top: 80px; */
+}
+
+.img{
+    align-items: center;
+    margin: auto;
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-top: auto; */
+}
+
+.ring {
+    height: 500px;
+    /* border: 5px dotted rgb(114, 4, 26); */
+    /* border-radius: 250px; */
+}
+
+.haldi{
+    height: 900px;
+    text-align: center;
+    display: flex;
+    padding-left: 200px;
+    background-color: rgb(246, 157, 14);
+    color: black;
+}
+
+.haldiimg {
+    height: 650px;
+    border: 5px dotted rgb(114, 4, 26);
+    border-radius: 50px;
+}
+
+.mehandi{
+    height: 900px;
+    text-align: center;
+    display: flex;
+    padding-left: 200px;
+    background-color: rgb(55, 138, 10);
+    color: black;
+}
+
+.mainlineMehandi{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 10px;
+}
+
+.headingMehandi {
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+    /* margin-bottom: 100px; */
+    color: rgb(114, 4, 26);
+    
+}
+
+.reception{
+    height: 900px;
+    text-align: center;
+    display: flex;
+    padding-left: 200px;
+    background-color: rgb(149, 54, 177);
+    color: black;
+}
+
+.thankupage {
+    height: 900px;
+    text-align: center;
+    background-color: cornflowerblue;
+    /* display: flex; */
+    /* margin-left: 200px; */
+}
+.mrmrs {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 20px;
+    color: rgb(59, 2, 22);
+}
+.thankuwords{
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 10px;
+}
+.date18{
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+    color: rgb(58, 10, 10);
+
+}
+.thanku{
+    font-size: 45px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+    color: rgb(6, 2, 32);
+}
+
+
